@@ -4,7 +4,7 @@
   "engines": {
     "node": "12.x"
   }
-  "description""yes",
+  "description":"yes",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1"
