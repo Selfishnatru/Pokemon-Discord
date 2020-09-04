@@ -1,15 +1,15 @@
 {
-  "name": "node-example",
+  "name": "werewolf-lord",
   "version": "1.0.0",
-  "description": "This example is so cool.",
-  "main": "web.js",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "example",
-    "heroku"
-  ],
-  "author": "jane-doe",
-  "license": "MIT"
+  "author": "",
+  "license": "ISC"
 }
