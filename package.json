@@ -1,23 +1,15 @@
 {
-  "name": "asdf",
+  "name": "node-example",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "This example is so cool.",
+  "main": "web.js",
   "scripts": {
-    "node .": "node run index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "d",
-  "dependencies": {
-    "discord.js": "^12.2.0",
-    "eslint": "^6.8.0",
-    "install": "^0.13.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "d"
-  }
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jane-doe",
+  "license": "MIT"
 }
-
-  
