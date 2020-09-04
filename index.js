@@ -5,7 +5,7 @@ const client = new Discord.Client();
 
 client.once('ready', () => {
     console.log('Ready')
-    client.user.setActivity('Eating Your Family', { type: "WATCHING"}).catch(console.error);
+    client.user.setActivity('Catching Mons', { type: "WATCHING"}).catch(console.error);
 })
 client.login(token);
 
